@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danniel Gutierres de Castro</h1>
-<h3 align="center">SRE-DevOPS</h3>
+<h3 align="center">Site Reliability Engineering</h3>
 
 <!--
 How to make the bio gif ?
