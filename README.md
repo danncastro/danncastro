@@ -4,10 +4,11 @@
 </div>
 <br>
 
+<p><h1>Hi, I'm Danniel Castro</h1></p>
 
-![Banner apresentacao](https://github.com/danncastro/danncastro/blob/main/Hi%2C%20im%20danniel%20gutierres%20castro.png)
+<h2 align="center"><hr>Currently, I am an SRE at Lincros S.A., considering myself a nonconformist, I always seek to improve and acquire knowledge.</h2>
+<hr>
 
-##
 <br><br>
 
 <div align="center">
