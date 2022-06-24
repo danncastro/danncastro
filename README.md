@@ -7,8 +7,8 @@
 <br><br>
 <div align="center">
   <a href="https://github.com/danncastro">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=danncastro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danncastro&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danncastro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danncastro&layout=compact&langs_count=7&theme=radical"/>
 </div><br><br>
 
 <div style="display: inline_block><br>
@@ -28,15 +28,6 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="bash" width="100" height="40"/> </a> 
-
-
-
-
- 
-
- 
-
- 
 
 </div>
 
