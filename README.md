@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Danniel Gutierres de Castro</h1>
-<h3 align="center">Site Reliability Engineering</h3>
+
+![Banner apresentacao](https://github.com/danncastro/danncastro/blob/main/Hi%2C%20im%20danniel%20castro.png)
 
 <!--
 How to make the bio gif ?
