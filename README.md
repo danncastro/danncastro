@@ -1,5 +1,5 @@
 
-![Banner apresentacao](https://github.com/danncastro/danncastro/blob/main/Hi%2C%20im%20danniel%20castro.png)
+![Banner apresentacao](https://github.com/danncastro/danncastro/blob/main/Hi%2C%20im%20danniel%20gutierres%20castro.png)
 
 <!--
 How to make the bio gif ?
