@@ -6,7 +6,7 @@
 
 <p><h1>Hi, I'm Danniel Castro</h1></p>
 
-<h2 align="center"><hr>Currently, I am an SRE at Lincros S.A., considering myself a nonconformist, I always seek to improve and acquire knowledge.</h2>
+<h2 align="center"><hr>Currently, I am an DevOps at UOL Host., considering myself a nonconformist, I always seek to improve and acquire knowledge.</h2>
 <hr>
 
 <br><br>
