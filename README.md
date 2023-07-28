@@ -53,7 +53,7 @@
 <div><br>
 <a href = "mailto:dannielcastro001@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/danniel-castro-82451518a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://danniel-gutierres-de-castro.gitbook.io/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://danniel-gutierres-de-castro.gitbook.io/" target="_blank"><img src="https://img.shields.io/gitlab/last-commit/gitbook" target="_blank"></a>
 </div>
 
 
