@@ -4,22 +4,6 @@
 </div>
 <br>
 
-<p><h1>Hi, I'm Danniel Castro</h1></p>
-
-<h2 align="center"><hr>Currently, I am an DevOps at UOL Host., considering myself a nonconformist, I always seek to improve and acquire knowledge.</h2>
-<hr>
-
-<br><br>
-
-<div align="center">
-  
-<a href="https://github.com/danncastro">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danncastro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danncastro&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<br><br>
-
 <div align="center"><br>                                             
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/danncastro/danncastro/blob/main/bash.png" alt="bash" width="50" height="50"/> </a>
@@ -33,6 +17,18 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </div>
+
+
+<br><br>
+
+<div align="center">
+  
+<a href="https://github.com/danncastro">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danncastro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danncastro&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<br><br>
 
 ##
 
