@@ -18,12 +18,17 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </div>
 
+<br><br>
+
 <div align="center">
-
-<a href="https://github.com/danncastro">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danncastro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danncastro&layout=compact&langs_count=7&theme=radical"/></a>
-
+  <img
+    height="200em"
+    src="https://github-readme-stats.vercel.app/api?username=danncastro&show_icons=true&title_color=7A6959&text_color=C76100&icon_color=7A6959&bg_color=292636&include_all_commits=true&count_private=true&cache_seconds=2300"
+  />
+  <img
+    height="200em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danncastro&hide=html&show_icons=true&title_color=7A6959&text_color=C76100&icon_color=7A6959&bg_color=292636&cache_seconds=2300"
+  />
 </div>
 
 ##
