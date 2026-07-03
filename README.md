@@ -8,12 +8,17 @@
 <br/>
 
 **DevSecOps/SRE Intern @ Host UOL** *(2023)*  
-Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação de Infrastructure as Code (IaC), práticas DevSecOps e integração de controles de segurança em ambientes cloud.
+Desenvolvimento de pipelines de CI/CD automatizadas e implementação de Infrastructure as Code (IaC) focada em ambientes escaláveis. Atuação na integração de controles e ferramentas de segurança (SecOps) nas esteiras de deploy, monitoramento contínuo e disseminação da cultura de confiabilidade.
+
+<br/>
+
+**Site Reliability Engineering @ Lincros** *(2022)*  
+Foco na sustentação e garantia de alta disponibilidade de ambientes híbridos (Cloud AWS e On-premises). Atuação direta em engenharia de confiabilidade, implementação de esteiras de observabilidade, automação de processos operacionais e otimização financeira de recursos (FinOps).
 
 <br/>
 
 **Cloud Analyst @ Accenture** *(2021)*  
-Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, automação operacional, otimização de custos (FinOps) e suporte à arquitetura de soluções escaláveis e cloud-native.
+Atuação em projetos de migração de datacenters tradicionais para nuvem (AWS Migration) e modernização de infraestrutura. Suporte ao desenho de soluções escaláveis, arquiteturas cloud-native e desenvolvimento de scripts para automação operacional.
 
 <br/>
 </td>
