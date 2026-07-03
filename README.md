@@ -44,10 +44,10 @@ Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, au
 <table align="center" border="0">
 <tr>
 <td valign="top" align="center">
-  <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danncastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" />
+  <img height="250px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danncastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" />
 </td>
 <td valign="top" align="center">
-  <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danncastro&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=5" />
+  <img height="250px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danncastro&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=5" />
 </td>
 </tr>
 </table>
