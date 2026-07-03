@@ -44,10 +44,10 @@ Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, au
 <table align="center" border="0">
 <tr>
 <td valign="top" align="center">
-  <img height="250px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danncastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" />
+  <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danncastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" />
 </td>
 <td valign="top" align="center">
-  <img height="250px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danncastro&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=5" />
+  <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danncastro&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=5" />
 </td>
 </tr>
 </table>
@@ -64,25 +64,29 @@ Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, au
 
 <br/>
 
-<table align="center">
+<!-- Tabela de certificações corrigida com larguras e alinhamentos simétricos -->
+<table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="20%" align="center" valign="top">
-<img width="120" src="https://github.com/user-attachments/assets/5636b0bd-0a8f-48f5-8c9c-f53cdc2c5238" />
-<br/><br/>
-<sub><b>AWS Cloud Practitioner</b></sub>
+<td width="160px" align="center" valign="top">
+  <img height="110px" src="https://github.com/user-attachments/assets/5636b0bd-0a8f-48f5-8c9c-f53cdc2c5238" />
+  <br/><br/>
+  <sub><b>AWS Cloud<br/>Practitioner</b></sub>
 </td>
 
-<td width="20%" align="center" valign="top">
-<img width="120" src="https://github.com/user-attachments/assets/718204a4-559b-4a74-af2c-9ae3035794a0" />
-<br/><br/>
-<sub><b>AWS Solutions Architect</b></sub>
+<!-- Espaçador invisível entre os badges -->
+<td width="40px"></td>
+
+<td width="160px" align="center" valign="top">
+  <img height="110px" src="https://github.com/user-attachments/assets/718204a4-559b-4a74-af2c-9ae3035794a0" />
+  <br/><br/>
+  <sub><b>AWS Solutions<br/>Architect</b></sub>
 </td>
 
 </tr>
 </table>
 
-<br/>
+<br/><br/>
 
 <a href="https://drive.google.com/drive/folders/1golySmWUI-valor_aqui?usp=sharing">
   <img src="https://img.shields.io/badge/VER_CERTIFICAÇÕES-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" />
