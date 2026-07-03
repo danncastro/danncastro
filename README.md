@@ -42,9 +42,9 @@ Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, au
 <!-- Dois cards com a mesma altura exata lado a lado -->
 <div align="center">
   <br/>
-  <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danncastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" />
+  <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danncastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" />
   &nbsp;
-  <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danncastro&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=7" />
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danncastro&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=7" />
 </div>
 
 <br/>
