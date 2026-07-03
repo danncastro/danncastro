@@ -42,7 +42,7 @@ Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, au
 <!-- Estatísticas ocupando toda a largura logo abaixo da tabela -->
 <div align="center">
   <br/>
-  <img width="100%" max-width="600px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danncastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
+  <img width="100%" max-width="600px" height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danncastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
 </div>
 
 <br/>
