@@ -7,7 +7,7 @@
 
 <br/>
 
-**DevSecOps/SRE Intern @ Host UOL** *(2023 - Atual)*  
+**DevSecOps/SRE Intern @ Host UOL** *(2023)*  
 Desenvolvimento de pipelines de CI/CD automatizadas e implementação de Infrastructure as Code (IaC) focada em ambientes escaláveis. Atuação na integração de controles e ferramentas de segurança (SecOps) nas esteiras de deploy, monitoramento contínuo e disseminação da cultura de confiabilidade.
 
 <br/>
@@ -69,24 +69,45 @@ Atuação em projetos de migração de datacenters tradicionais para nuvem (AWS 
 
 <br/>
 
-<!-- Tabela de certificações corrigida com larguras e alinhamentos simétricos -->
+<!-- Tabela expandida para 4 certificações com alinhamento milimétrico -->
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="160px" align="center" valign="top">
-  <img height="110px" src="https://github.com/user-attachments/assets/5636b0bd-0a8f-48f5-8c9c-f53cdc2c5238" />
+<!-- 1: Cloud Practitioner -->
+<td width="140px" align="center" valign="top">
+  <img height="100px" src="https://github.com/user-attachments/assets/5636b0bd-0a8f-48f5-8c9c-f53cdc2c5238" />
   <br/><br/>
   <sub><b>AWS Cloud<br/>Practitioner</b></sub>
 </td>
 
-<!-- Espaçador invisível entre os badges -->
-<td width="40px"></td>
+<td width="25px"></td>
 
-<td width="160px" align="center" valign="top">
-  <img height="110px" src="https://github.com/user-attachments/assets/718204a4-559b-4a74-af2c-9ae3035794a0" />
+<!-- 2: Solutions Architect -->
+<td width="140px" align="center" valign="top">
+  <img height="100px" src="https://github.com/user-attachments/assets/718204a4-559b-4a74-af2c-9ae3035794a0" />
   <br/><br/>
   <sub><b>AWS Solutions<br/>Architect</b></sub>
 </td>
+
+<td width="25px"></td>
+
+<!-- 3: CCNA: Introduction to Networks -->
+<td width="140px" align="center" valign="top">
+  <img height="100px" src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" />
+  <br/><br/>
+  <sub><b>CCNA:<br/>Introduction to Networks</b></sub>
+</td>
+
+<td width="25px"></td>
+
+<!-- 4: Cisco Network Security  -->
+<td width="140px" align="center" valign="top">
+  <img height="100px" src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" />
+  <br/><br/>
+  <sub><b>Cisco<br/>Network Security</b></sub>
+</td>
+
+<td width="25px"></td>
 
 </tr>
 </table>
