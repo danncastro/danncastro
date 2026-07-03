@@ -1,52 +1,143 @@
+<br/>
 
-<div>
-<img src="https://komarev.com/ghpvc/?username=danncastro&label=Profile%20views&color=127aba&style=plastic" alt="danncastro"/>
-</div>
-<br>
+<table>
+<tr>
 
-<div align="center"><br>                                             
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/danncastro/danncastro/blob/main/bash.png" alt="bash" width="50" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="45"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="grafana" width="40" height="40"/> </a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</div>
+<td width="55%" valign="top">
 
-<br><br>
+### Plataform Engineer & Cloud Architect
 
-<div align="center">
-  <img
-    height="200em"
-    src="https://github-readme-stats.vercel.app/api?username=danncastro&show_icons=true&title_color=7A6959&text_color=C76100&icon_color=7A6959&bg_color=292636&include_all_commits=true&count_private=true&cache_seconds=2300"
-  />
-  <img
-    height="200em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danncastro&hide=html&show_icons=true&title_color=7A6959&text_color=C76100&icon_color=7A6959&bg_color=292636&cache_seconds=2300"
-  />
-</div>
+<br/>
 
-##
+**DevSecOps/SRE Intern @ Host UOL** *(2023)*  
+Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação de Infrastructure as Code (IaC), práticas DevSecOps e integração de controles de segurança em ambientes cloud.
 
-<br>
+<br/>
 
-<div align="center">
-<img height="250px" width="800px" src="https://github-readme-streak-stats.herokuapp.com/?user=danncastro&theme=dark" alt="danncastro" /></p>
-</div>
+**Cloud Analyst @ Accenture** *(2021)*  
+Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, automação operacional, otimização de custos (FinOps) e suporte à arquitetura de soluções escaláveis e cloud-native.
 
-##
+<br/>
+</td>
 
-![snake gif](https://github.com/danncastro/danncastro/blob/output/github-contribution-grid-snake.svg)
+<td width="45%" valign="top" align="center">
+<img width="320" src="Euuu.jpeg" alt="Danniel Castro - Plataform Engineer" />
 
-<h3 align="left">Connect with me:</h3>
-<div><br>
-<a href = "mailto:dannielcastro001@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<br/>
+
+<p align="center">
+  <a href="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+
+  <a href="mailto:main.nkihl@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 <a href="https://www.linkedin.com/in/danniel-castro-82451518a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<img src="https://komarev.com/ghpvc/?username=danncastro&style=flat-square&color=38BDF8&label=VIEWS" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=danncastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+
+### Certificações
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="20%" align="center">
+<img width="120" src="https://github.com/user-attachments/assets/5636b0bd-0a8f-48f5-8c9c-f53cdc2c5238" />
+<br/><br/>
+<sub><b>AWS Cloud Practitioner</b></sub>
+</td>
+
+<td width="20%" align="center">
+<img width="120" src="https://github.com/user-attachments/assets/718204a4-559b-4a74-af2c-9ae3035794a0" />
+<br/><br/>
+<sub><b>AWS Solutions Architect</b></sub>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<a href="https://drive.google.com/drive/folders/1golySmWUI-valor_aqui?usp=sharing">
+  <img src="https://img.shields.io/badge/VER_CERTIFICAÇÕES-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
 </div>
 
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+
+### Tech Stack
+
+<br/>
+<p align="center">
+  <!-- Cloud & IaC -->
+  <img src="https://skillicons.dev/icons?i=terraform,aws&theme=light" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,bash&theme=light" />
+  <!-- Containers & DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,grafana,rabbitmq,jenkins,elasticsearch,prometheus&theme=light" />
+  <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="Zabbix" width="50" height="50" style="border-radius: 8px;"/>
+
+</p>
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake-dark.svg" />
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake.svg" />
+  
+  <img alt="snake eating contributions" src="https://github.com/danncastro/danncastro/blob/output/github-contribution-grid-snake.svg" />
+
+  <div align="center">
+  <img height="250px" width="800px" src="https://github-readme-streak-stats.herokuapp.com/?user=danncastro&theme=dark" alt="danncastro" /></p>
+  </div>
+
+</picture>
+
+
+<a href="mailto:-main.nkihl@gmail.com"> <img src="https://img.shields.io/badge/CONTACT-main.nkihl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+
+<div align="center">
+  <a href="https://danncastro.github.io/">
+<img src="https://img.shields.io/badge/Portfólio-Ver_Projetos-7C3AED?style=for-the-badge" alt="Portfólio Danniel Castro"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
