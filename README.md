@@ -95,7 +95,7 @@ Atuação em projetos de migração de datacenters tradicionais para nuvem (AWS 
 <td width="140px" align="center" valign="top">
   <img height="100px" src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" />
   <br/><br/>
-  <sub><b>CCNA:<br/>Introduction to Networks</b></sub>
+  <sub><b>Cisco<br/>Network Security</b></sub>
 </td>
 
 <td width="25px"></td>
@@ -104,7 +104,7 @@ Atuação em projetos de migração de datacenters tradicionais para nuvem (AWS 
 <td width="140px" align="center" valign="top">
   <img height="100px" src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" />
   <br/><br/>
-  <sub><b>Cisco<br/>Network Security</b></sub>
+  <sub><b>CCNA:<br/>Introduction to Networks</b></sub>
 </td>
 
 </tr>
