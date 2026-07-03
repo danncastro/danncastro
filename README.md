@@ -39,10 +39,12 @@ Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, au
 </tr>
 </table>
 
-<!-- Estatísticas ocupando toda a largura logo abaixo da tabela -->
+<!-- Estatísticas e Top Languages lado a lado preenchendo o espaço horizontal -->
 <div align="center">
   <br/>
-  <img width="100%" max-width="600px" height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danncastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danncastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
+  &nbsp;&nbsp;
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danncastro&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&hide_title=true" />
 </div>
 
 <br/>
