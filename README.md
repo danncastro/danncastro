@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
 ### Platform Engineer & Cloud Architect
 
