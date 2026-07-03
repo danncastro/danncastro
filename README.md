@@ -13,7 +13,7 @@ Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação d
 <br/>
 
 **Cloud Analyst @ Accenture** *(2021)*  
-Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, automação operational, otimização de custos (FinOps) e suporte à arquitetura de soluções escaláveis e cloud-native.
+Atuação em ambientes AWS com foco in infraestrutura cloud, observabilidade, automação operacional, otimização de custos (FinOps) e suporte à arquitetura de soluções escaláveis e cloud-native.
 
 <br/>
 </td>
@@ -39,12 +39,12 @@ Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, au
 </tr>
 </table>
 
-<!-- Dois cards com a mesma altura exata lado a lado -->
+<!-- Cards maiores e simétricos lado a lado -->
 <div align="center">
   <br/>
-  <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danncastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" />
+  <img height="210px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danncastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" />
   &nbsp;
-  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danncastro&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=7" />
+  <img height="210px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danncastro&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" />
 </div>
 
 <br/>
