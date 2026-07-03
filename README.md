@@ -7,7 +7,7 @@
 
 <br/>
 
-**DevSecOps/SRE Intern @ Host UOL** *(2023)*  
+**DevSecOps/SRE Intern @ Host UOL** *(2023 - Atual)*  
 Desenvolvimento de pipelines de CI/CD automatizadas e implementação de Infrastructure as Code (IaC) focada em ambientes escaláveis. Atuação na integração de controles e ferramentas de segurança (SecOps) nas esteiras de deploy, monitoramento contínuo e disseminação da cultura de confiabilidade.
 
 <br/>
