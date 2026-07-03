@@ -107,8 +107,6 @@ Atuação em projetos de migração de datacenters tradicionais para nuvem (AWS 
   <sub><b>Cisco<br/>Network Security</b></sub>
 </td>
 
-<td width="25px"></td>
-
 </tr>
 </table>
 
