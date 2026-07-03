@@ -3,7 +3,7 @@
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="70%" valign="top">
 
 ### Plataform Engineer & Cloud Architect
 
