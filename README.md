@@ -1,11 +1,9 @@
-<br/>
-
 <table>
 <tr>
 
-<td width="70%" valign="top">
+<td width="65%" valign="top">
 
-### Plataform Engineer & Cloud Architect
+### Platform Engineer & Cloud Architect
 
 <br/>
 
@@ -20,21 +18,20 @@ Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, au
 <br/>
 </td>
 
-<td width="45%" valign="top" align="center">
-<img width="320" src="Euuu.jpeg" alt="Danniel Castro - Plataform Engineer" />
+<td width="35%" valign="top" align="center">
+<img width="320" src="Euuu.jpeg" alt="Danniel Castro - Platform Engineer" />
 
-<br/>
+<br/><br/>
 
+<!-- LinkedIn e Gmail Lado a Lado -->
 <p align="center">
-  <a href="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/danniel-castro-82451518a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:main.nkihl@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<a href="https://www.linkedin.com/in/danniel-castro-82451518a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <img src="https://komarev.com/ghpvc/?username=danncastro&style=flat-square&color=38BDF8&label=VIEWS" />
 
@@ -56,20 +53,22 @@ Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, au
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
 
-<td width="20%" align="center">
+<td width="20%" align="center" valign="top">
 <img width="120" src="https://github.com/user-attachments/assets/5636b0bd-0a8f-48f5-8c9c-f53cdc2c5238" />
 <br/><br/>
 <sub><b>AWS Cloud Practitioner</b></sub>
 </td>
 
-<td width="20%" align="center">
+<td width="20%" align="center" valign="top">
 <img width="120" src="https://github.com/user-attachments/assets/718204a4-559b-4a74-af2c-9ae3035794a0" />
 <br/><br/>
 <sub><b>AWS Solutions Architect</b></sub>
 </td>
+
+<!-- Se quiser adicionar uma 3ª certificação no futuro, basta colar o bloco aqui antes do </tr> -->
 
 </tr>
 </table>
@@ -81,7 +80,6 @@ Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, au
 </a>
 
 </div>
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -99,8 +97,7 @@ Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, au
   <img src="https://skillicons.dev/icons?i=python,bash&theme=light" />
   <!-- Containers & DevOps -->
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,grafana,rabbitmq,jenkins,elasticsearch,prometheus&theme=light" />
-  <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="Zabbix" width="50" height="50" style="border-radius: 8px;"/>
-
+  <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="Zabbix" width="50" height="50" style="border-radius: 8px; vertical-align: middle;"/>
 </p>
 <br/>
 
@@ -118,21 +115,26 @@ Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, au
     srcset="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake.svg" />
   
   <img alt="snake eating contributions" src="https://github.com/danncastro/danncastro/blob/output/github-contribution-grid-snake.svg" />
-
-  <div align="center">
-  <img height="250px" width="800px" src="https://github-readme-streak-stats.herokuapp.com/?user=danncastro&theme=dark" alt="danncastro" /></p>
-  </div>
-
 </picture>
 
-
-<a href="mailto:-main.nkihl@gmail.com"> <img src="https://img.shields.io/badge/CONTACT-main.nkihl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-
 <div align="center">
-  <a href="https://danncastro.github.io/">
-<img src="https://img.shields.io/badge/Portfólio-Ver_Projetos-7C3AED?style=for-the-badge" alt="Portfólio Danniel Castro"/>
-  </a>
+  <br/>
+  <img height="250px" width="800px" src="https://github-readme-streak-stats.herokuapp.com/?user=danncastro&theme=dark" alt="danncastro" />
 </div>
+
+<br/><br/>
+
+<p align="center">
+  <a href="mailto:main.nkihl@gmail.com"> 
+    <img src="https://img.shields.io/badge/CONTACT-main.nkihl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://danncastro.github.io/">
+    <img src="https://img.shields.io/badge/Portfólio-Ver_Projetos-7C3AED?style=for-the-badge" alt="Portfólio Danniel Castro"/>
+  </a>
+</p>
+
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
