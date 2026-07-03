@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 
 ### Platform Engineer & Cloud Architect
 
@@ -35,13 +35,17 @@ Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, au
 
 <img src="https://komarev.com/ghpvc/?username=danncastro&style=flat-square&color=38BDF8&label=VIEWS" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=danncastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
-
 </td>
 </tr>
 </table>
+
+<!-- Estatísticas ocupando toda a largura logo abaixo da tabela -->
+<div align="center">
+  <br/>
+  <img width="100%" max-width="600px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danncastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -56,19 +60,17 @@ Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, au
 <table align="center">
 <tr>
 
-<td width="20%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <img width="120" src="https://github.com/user-attachments/assets/5636b0bd-0a8f-48f5-8c9c-f53cdc2c5238" />
 <br/><br/>
 <sub><b>AWS Cloud Practitioner</b></sub>
 </td>
 
-<td width="20%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <img width="120" src="https://github.com/user-attachments/assets/718204a4-559b-4a74-af2c-9ae3035794a0" />
 <br/><br/>
 <sub><b>AWS Solutions Architect</b></sub>
 </td>
-
-<!-- Se quiser adicionar uma 3ª certificação no futuro, basta colar o bloco aqui antes do </tr> -->
 
 </tr>
 </table>
